@@ -19,6 +19,8 @@ Open an integrated terminal from the location of the index.js file. In the termi
 
 ## Usage
 
+https://drive.google.com/file/d/1iW5tIrfA-0zY1QCWHcxbDJVP1aWd_zO8/view?usp=sharing
+
 Will fill this in.
 
 ## Credits
