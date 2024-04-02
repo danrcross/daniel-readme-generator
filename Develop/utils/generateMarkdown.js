@@ -90,7 +90,7 @@ ${data.tests}
 
 Any Questions? Click a link below to visit my GitHub and/or email me!
 
-For emails, please use this format in the subject line: 'GitHub: <NAME OF REPOSITORY>'
+For emails, please use this format in the subject line: 'GitHub: {NAME_OF_REPOSITORY}'
 
 [GitHub](https://github.com/${data.ghName})\n
 [Email](mailto:${data.email})
