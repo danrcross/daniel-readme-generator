@@ -83,6 +83,8 @@ Additionally, here are some screenshots highlighting the important steps of usin
 
 ## Credits
 
+Most skills used in this project were learned through course instruction and materials.
+
 This project was developed from starter code, obtained here:
 [potential-enigma](https://github.com/coding-boot-camp/potential-enigma)
 
@@ -104,11 +106,12 @@ This application is covered under the [MIT](https://opensource.org/licenses/MIT)
 
 ## Tests
 
-this one too;
+No tests were used/developed for this application.
 
 ## Questions
 
 Any Questions? Visit my GitHub! Email me!
 
 [GitHub](https://github.com/danrcross)
-Email:(danrcross@gmail.com)
+
+Email: [mailto:danrcross@gmail.com](mailto:danrcross@gmail.com)
